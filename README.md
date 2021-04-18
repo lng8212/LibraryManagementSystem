@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-A program to manage library.
+A program to manage library using JavaSwing.
