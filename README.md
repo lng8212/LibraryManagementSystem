@@ -16,7 +16,9 @@ Funtion:
 - returnBook.
 ![returnBook](https://user-images.githubusercontent.com/69128515/115721546-59b80f00-a3a8-11eb-98c9-c699b50b3f4c.png)
 - statistics.
-![statistics](https://user-images.githubusercontent.com/69128515/115721573-60df1d00-a3a8-11eb-902f-1aa44c3172d1.png)
+![Screenshot 2021-04-25 111150](https://user-images.githubusercontent.com/69128515/115980459-1b446f00-a5b7-11eb-844e-5ba527a1065a.png)
+
+
 
 
 Technology:
